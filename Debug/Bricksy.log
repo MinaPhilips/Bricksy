@@ -1,0 +1,137 @@
+﻿  main.cpp
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(66,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(142,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(163,87): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(180,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(236,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(249,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(260,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(303,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(303,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(304,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(304,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(308,13): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(343,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(348,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(352,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(357,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(486,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(486,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(519,51): warning C4244: 'argument': conversion from 'long' to 'sf::Uint8', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(578,102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(584,102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(591,144): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(597,144): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(601,79): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(601,49): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(690,119): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(697,119): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(704,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(710,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(716,143): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(723,143): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(728,78): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(728,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(829,80): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(829,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(830,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(831,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(832,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(833,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(834,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(835,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(836,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(838,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(840,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(843,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(863,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(902,78): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(902,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(907,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(913,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(954,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(954,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(1029,79): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(1029,49): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(1030,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(1039,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(1063,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(1063,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(1096,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(1103,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(1111,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(1232,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(1238,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(1244,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(1250,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(1256,107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(1262,107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(1268,110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(1274,110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(1279,78): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(1279,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(1280,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(1344,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(1345,96): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(1346,117): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(1347,141): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(1348,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(1423,111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(1430,108): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(1511,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(1610,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(1619,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\minab\Documents\Projects\Bricksy\main.cpp(1626,27): warning C4305: 'argument': truncation from 'double' to 'float'
+  Bricksy.vcxproj -> C:\Users\minab\Documents\Projects\Bricksy\Debug\Bricksy.exe
